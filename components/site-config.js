@@ -9,7 +9,7 @@ window.SITE_CONFIG = {
   logo: "images/towel-warmers-logo.svg",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
   affiliateTag: "besttowelwarmers-20",
-  gaId: "",
+  gaId: "G-KSDR2XPN5P",
   colors: {
     primary: "#880E4F",
     primaryLight: "#AD1457",

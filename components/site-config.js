@@ -44,10 +44,10 @@ window.SITE_CONFIG = {
       { label: "Best Bathroom Vanities", href: "https://www.bestbathroomvanities.com" },
       { label: "Best Shower Heads", href: "https://www.best-shower-heads.com" },
       { label: "Best Soap Dispensers", href: "https://www.best-soap-dispensers.com" },
-      { label: "Best Bathroom Mirrors", href: "https://www.best-bathroom-mirrors.com" },
+      { label: "Best Bathroom Mirrors", href: "https://www.bestbathroommirrors.com" },
       { label: "Best Bath Towels", href: "https://www.best-bath-towels.com" },
       { label: "Best Bathroom Faucets", href: "https://www.best-bathroom-faucets.com" },
-      { label: "Best Bathroom Storage", href: "https://www.best-bathroom-storage.com" }
+      { label: "Best Bathroom Storage", href: "https://www.bestbathroomstorage.com" }
     ]
   },
   networkBanners: [
@@ -101,7 +101,7 @@ window.SITE_CONFIG = {
     },
     {
       id: "best-bathroom-storage",
-      domain: "best-bathroom-storage.com",
+      domain: "bestbathroomstorage.com",
       headline: "Need Smart Bathroom Storage?",
       description: "Expert reviews of the best bathroom storage solutions — from over-the-toilet units to wall cabinets.",
       ctaText: "Browse Bathroom Storage",

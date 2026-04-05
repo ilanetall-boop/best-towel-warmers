@@ -6,7 +6,7 @@ window.SITE_CONFIG = {
   name: "Best Towel Warmers",
   domain: "best-towel-warmers.com",
   tagline: "Expert reviews for luxury towel warmers",
-  logo: "images/towel-warmers-logo.svg",
+  logo: "images/towel-warmers-logo.svg?v=2",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
   affiliateTag: "besttowelwarmers-20",
   gaId: "G-KSDR2XPN5P",
